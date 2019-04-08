@@ -9,7 +9,7 @@ ab -kc 20 -n 1000 https://suavoo.com/ <br>
 <br>
 <br>
 ## Dot.net example
-https://github.com/dodyg/practical-aspnetcore/tree/master/projects/aspnet-core-2/razor-pages-mvc <br>
+https://github.com/dotnet-presentations/aspnetcore-for-beginners <br>
 <br>
 ## Tools:
 ### CURL <br>
