@@ -43,9 +43,11 @@ curl -XPOST -d'{"count":1,"requeue":true,"encoding":"auto"}' https:/xyppsfen:7OP
  <br>
  <br>
 ## AWS LAB:
-https://run.qwiklabs.com/focuses/2966 - Lamda <br>
-https://run.qwiklabs.com/focuses/2380 - Gateway API + Lamda <br>
-https://run.qwiklabs.com/focuses/2355 - S3 <br>
-https://run.qwiklabs.com/focuses/2362 - Cloudfront <br>
-https://run.qwiklabs.com/focuses/6211 - IAM <br>
-https://run.qwiklabs.com/focuses/2989 - Route 53 DNS <br>
+https://run.qwiklabs.com/focuses/281  - IAM <br>
+https://run.qwiklabs.com/focuses/278  - S3 <br>
+https://run.qwiklabs.com/focuses/284  - Lamda <br>
+https://run.qwiklabs.com/focuses/269  - API Gateway <br>
+https://run.qwiklabs.com/focuses/270  - CLoudfront <br>
+https://run.qwiklabs.com/focuses/4088 - Lightsail, deploy LAMP <br>
+
+
